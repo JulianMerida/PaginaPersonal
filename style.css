@@ -1,8 +1,34 @@
 body {
-	text-align: center:
+	background: #FFFFFF;
+	text-align: center;
+	
 } 
 
 h1 {
 	font-family: 'helvetica';
+		text-align: center;
 
+}
+h2{
+		text-align: left;
+		color: #00CCCC;
+
+}
+h3{
+		text-align: left;
+		font-size: 250%;
+		color: red;
+		
+}
+li{
+		text-align: left;
+		font-size: 350%;
+		
+		
+}
+p{
+	text-align: justify;
+	margin-right: 550px; 
+	background: #E5FFCC;
+	
 }
